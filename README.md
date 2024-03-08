@@ -4,7 +4,7 @@
 <img alt="Coder GIF" height=250 width=400 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 - 🌱 I’m currently learning Courses
 
-- 💬 Ask me about JAVA, PYTHON, C & C++
+- 💬 Ask me about JAVA, SQL, HTML, CSS, JAVASCRIPT, BOOTSTRAP, PYTHON
 
 - 📫 How to reach me ajinkya612001@gmail.com
 
